@@ -1,0 +1,10 @@
+*.swp
+*.swo
+
+debian
+.obj-x86_64-linux-gnu
+
+act.sh
+generate.sh
+
+.ci_scripts
