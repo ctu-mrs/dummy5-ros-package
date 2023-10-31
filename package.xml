@@ -15,5 +15,6 @@
   <depend>nodelet</depend>
   <depend>roscpp</depend>
   <depend>std_msgs</depend>
+  <depend>mrs_dummy4_package</depend>
 
 </package>
